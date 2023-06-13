@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Kian Santang. This is my new repo
+
+🔭 I’m currently studying on Yogyakarta State Univeristy, enroll in Communication Studies Program
 <!--
 **ahmadkian-sg/ahmadkian-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
